@@ -15,7 +15,7 @@ Aplikasi untuk Berbagi Foto
 Clone Project
 
 ```bash
-  git clone
+  git clone https://github.com/FauzanAldi/sharing-photo-app.git
 ```
 
 Install project with composer
